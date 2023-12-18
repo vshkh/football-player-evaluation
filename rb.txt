@@ -1,0 +1,494 @@
+JK Dobbins
+8
+8
+RB
+0
+5.7
+7
+44
+
+Kenyan Drake
+12
+5
+RB
+1
+4.4
+17
+40
+
+Joe Mixon
+14
+14
+RB
+0
+3.9
+60
+40
+
+Same Perine
+16
+2
+RB
+0
+4.1
+38
+29
+
+Najee Harris
+17
+17
+RB
+3
+3.8
+41
+36
+
+Jaylen Warren
+16
+0 
+RB 
+1
+4.9
+28
+31
+
+Nick Chubb
+17
+17
+RB
+1
+5.0
+27
+41
+
+Kareem Hunt
+17
+0
+RB
+1
+3.8
+35
+24
+
+Isiah Pacheco
+17
+11
+RB
+4
+4.9
+13
+31
+
+Jerick McKinnon
+17
+0
+RB
+1
+4.0
+56
+30
+
+Austin Ekeler
+17
+17
+RB
+5
+4.5
+107
+72
+
+Joshua Kelley
+13
+1
+RB
+0
+4.2
+14
+22
+
+Josh Jacobs
+17
+17
+RB
+3
+4.9
+53
+86
+
+Brandon Bolden
+16
+0
+RB
+0
+3.9
+9
+12
+
+Latavius Murray
+12
+7
+RB
+1
+4.4
+26
+52
+
+Melvin Gordon
+10
+6
+RB
+5
+3.5
+25
+17
+
+Devin Singletary
+16
+16
+RB
+3
+4.6
+38
+43
+
+James Cook
+16
+0
+RB
+1
+5.7
+21
+33
+
+Raheem Mostert
+16
+14
+RB
+1
+4.9
+31
+67
+
+Jeff Wilson
+8
+1
+RB
+1
+4.7
+12
+28
+
+Rhamondre Stevenson
+17
+7
+RB
+4
+5.0
+69
+49
+
+Damien Harris
+11
+9
+RB
+0
+4.4
+17
+30
+
+Michael Carter
+16
+10
+RB
+2
+3.5
+41
+25
+
+Breece Hall
+7
+2
+RB
+1
+5.8
+19
+62
+
+Travis Etienne
+17
+12
+RB
+5
+5.1
+35
+62
+
+James Robinson
+7
+5
+RB
+1
+4.2
+9
+50
+
+Derrick Henry
+16
+16
+RB
+6
+4.4
+33
+56
+
+Johnathan Taylor
+11
+11
+RB
+3
+4.5
+28
+66
+
+Zack Moss
+8
+3
+RB
+0
+4.8
+4
+34
+
+Dameon Pierce 
+13
+13
+RB
+4
+4.3
+30
+75
+
+Dare Ogunbowale
+17
+4
+RB
+0
+2.9
+20
+11
+
+Dalvin Cook
+17
+17
+RB
+4
+4.4
+39
+81
+
+Alexander Mattison
+17
+0
+RB
+0
+3.8
+15
+15
+
+Kene Nwangwu
+17
+0
+RB
+0
+1.6
+2
+8
+
+Jamaal Williams
+17
+9
+RB
+3
+4.1
+12
+58
+
+D'Andre Swift 
+14
+8
+RB
+1
+5.5
+48
+50
+
+Aaron Jones
+17
+17
+RB
+5
+5.3
+59
+36
+
+AJ Dillon
+17
+3
+RB
+1
+4.1
+28
+27
+
+David Montgomery
+16
+16
+RB
+2
+4.0
+34
+28
+
+Leonard Fournette
+16
+9
+RB
+0
+3.5
+73
+23
+
+Rachaad White
+17
+8
+RB
+3
+3.7
+50
+35
+
+D'Onta Foreman 
+17
+9
+RB
+1
+4.5
+5
+60
+
+Chuba Hubbard
+15
+2
+RB
+2
+4.9
+14
+35
+
+Alvin Kamara
+15
+13
+RB
+4
+4.0
+57
+27
+
+Taysom Hill
+16
+8
+RB
+2
+6.0
+9
+60
+
+Tyler Allgeier
+16
+7
+RB
+0
+4.9
+16
+44
+
+Cordarrelle Patterson
+13
+11
+RB
+1
+4.8
+21
+40
+
+Miles Sanders
+17
+15
+RB
+2
+4.9
+20
+40
+
+Boston Scott
+15
+2
+RB
+0
+4.0
+5
+21
+
+Ezekiel Elliot
+15
+14
+RB
+0
+3.8
+17
+27
+
+Tony Pollard
+16
+4
+RB
+0
+5.2
+39
+57
+
+Saquon Barkley
+16
+16
+RB
+1
+4.4
+57
+68
+
+Matt Breida
+17
+1
+RB
+0
+4.1
+20
+18
+
+Brian Robinson
+12
+9
+RB
+2
+3.9
+9
+24
+
+Antonio Gibson
+15
+6
+RB
+1
+3.7
+46
+20

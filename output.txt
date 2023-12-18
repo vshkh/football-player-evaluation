@@ -1,0 +1,1812 @@
+Lamar Jackson
+12
+12
+QB
+Good Player
+20
+12
+62.3
+44.6
+2
+
+Tyler Huntley
+6
+4
+QB
+Good Player
+3
+3
+67
+42.9
+1
+
+Joe Burrow
+16
+16
+QB
+Good Player
+40
+18
+68.3
+50.1
+4
+
+Brandon Allen
+1
+1
+QB
+Bad Player
+0
+0
+100
+25
+0
+
+Kenny Pickett
+13
+12
+QB
+Good Player
+10
+13
+63
+44
+4
+
+Mitchell Trubisky
+7
+5
+QB
+Good Player
+6
+5
+65
+45.5
+1
+
+Jacoby Brissett
+16
+11
+QB
+Good Player
+14
+12
+64
+44.5
+2
+
+Deshaun Watson
+6
+6
+QB
+Average Player
+8
+6
+58
+41
+0
+
+Patrick Mahomes
+17
+17
+QB
+Good Player
+45
+17
+67.1
+54.5
+4
+
+Chad Henne
+0
+0
+QB
+Bad Player
+0
+1
+0
+0
+0
+
+Justin Herbert
+17
+17
+QB
+Good Player
+25
+18
+68.3
+46.2
+5
+
+Chase Daniel
+4
+0
+QB
+Bad Player
+1
+0
+67.3
+46.3
+0
+
+Derek Carr
+15
+15
+QB
+Good Player
+24
+18
+60.8
+42.3
+3
+
+Jarrett Stidham
+5
+2
+QB
+Average Player
+4
+6
+63.9
+43.3
+0
+
+Russell Wilson
+15
+15
+QB
+Bad Player
+19
+17
+60.5
+36.2
+3
+
+Brett Rypien
+4
+2
+QB
+Average Player
+2
+8
+60.2
+41.7
+0
+
+Josh Allen
+16
+16
+QB
+Good Player
+42
+27
+63.3
+52.2
+4
+
+Case Keenum
+2
+0
+QB
+Bad Player
+0
+0
+28.6
+0
+0
+
+Tua Tagovailoa
+13
+13
+QB
+Good Player
+25
+14
+64.8
+49.9
+2
+
+Skylar Thompson
+7
+2
+QB
+Bad Player
+1
+6
+57.1
+36
+0
+
+Mac Jones
+14
+14
+QB
+Average Player
+15
+16
+65.2
+41.1
+0
+
+Bailey Zappe
+4
+2
+QB
+Average Player
+5
+7
+70.7
+50.1
+0
+
+Zach Wilson
+9
+9
+QB
+Bad Player
+7
+8
+54.5
+37.7
+2
+
+Joe Flacco
+5
+4
+QB
+Bad Player
+5
+8
+57.6
+39.9
+1
+
+Trevor Lawrence
+17
+17
+QB
+Good Player
+30
+20
+66.3
+48.1
+2
+
+CJ Beathard
+4
+0
+QB
+Bad Player
+0
+0
+63.6
+33.3
+0
+
+Ryan Tannehill
+12
+12
+QB
+Average Player
+15
+9
+65.2
+45.3
+0
+
+Joshua Dobbs
+2
+2
+QB
+Bad Player
+2
+6
+58.9
+39.3
+0
+
+Matt Ryan
+12
+12
+QB
+Good Player
+15
+28
+67
+44.9
+4
+
+Sam Ehlinger
+4
+3
+QB
+Average Player
+3
+5
+63.4
+40.9
+0
+
+Davis Mills
+15
+15
+QB
+Good Player
+19
+23
+61
+40
+3
+
+Kyle Allen
+2
+2
+QB
+Bad Player
+2
+8
+59
+33.7
+0
+
+Kirk Cousins
+17
+17
+QB
+Good Player
+31
+21
+65.9
+46.3
+8
+
+Nick Mullens
+4
+0
+QB
+Bad Player
+1
+1
+84
+76
+0
+
+Jared Goff
+17
+17
+QB
+Good Player
+29
+14
+65.3
+50.1
+3
+
+Nate Sudfeld
+2
+0
+QB
+Bad Player
+0
+0
+0
+0
+0
+
+Aaron Rodgers
+17
+17
+QB
+Good Player
+26
+20
+64.6
+45.1
+4
+
+Jordan Love
+4
+0
+QB
+Bad Player
+1
+0
+67.6
+57.1
+0
+
+Justin Fields
+15
+15
+QB
+Bad Player
+25
+27
+60.4
+36.6
+2
+
+Trevor Siemian
+2
+1
+QB
+Bad Player
+1
+1
+57.7
+39.3
+0
+
+Jimmy Garoppolo
+11
+10
+QB
+Good Player
+16
+7
+67.2
+53.1
+1
+
+Brock Purdy
+9
+5
+QB
+Good Player
+14
+4
+67.3
+50.2
+1
+
+Geno Smith
+17
+17
+QB
+Good Player
+31
+19
+69.8
+48.2
+3
+
+Matt Stafford
+9
+9
+QB
+Average Player
+11
+13
+68
+49.5
+0
+
+Baker Mayfield
+5
+4
+QB
+Good Player
+5
+3
+63.3
+41.1
+1
+
+John Wolford
+3
+3
+QB
+Average Player
+1
+6
+61.3
+43.5
+0
+
+Kyler Murray
+11
+11
+QB
+Good Player
+17
+15
+66.6
+44.6
+1
+
+Colt McCoy
+4
+3
+QB
+Bad Player
+1
+5
+68.2
+39.1
+0
+
+Tom Brady
+17
+17
+QB
+Good Player
+26
+14
+66.5
+45.6
+5
+
+Kyle Trask
+1
+0
+QB
+Bad Player
+0
+0
+33.3
+22.6
+0
+
+Sam Darnold
+6
+6
+QB
+Good Player
+9
+9
+58.6
+44.2
+1
+
+PJ Walker
+6
+5
+QB
+Bad Player
+3
+3
+59.4
+35.4
+0
+
+Andy Dalton
+14
+14
+QB
+Good Player
+18
+14
+66.7
+44.9
+1
+
+Jameis Winston
+3
+3
+QB
+Good Player
+4
+8
+66.7
+48.9
+1
+
+Marcus Mariota
+13
+13
+QB
+Good Player
+15
+17
+61.3
+45.1
+3
+
+Desmond Ridder
+4
+4
+QB
+Good Player
+2
+3
+63.5
+43.5
+1
+
+Jalen Hurts
+15
+15
+QB
+Good Player
+35
+15
+66.5
+46.4
+2
+
+Gardner Minshew
+5
+2
+QB
+Bad Player
+4
+7
+57.9
+37.9
+0
+
+Dak Prescott
+12
+12
+QB
+Good Player
+24
+19
+66.5
+51.3
+2
+
+Cooper Rush
+9
+5
+QB
+Bad Player
+5
+5
+58.3
+37.2
+2
+
+Daniel Jones
+16
+16
+QB
+Good Player
+22
+11
+67.2
+45.6
+5
+
+Tyrod Taylor
+3
+0
+QB
+Average Player
+1
+3
+75
+55.5
+0
+
+Carson Wentz
+8
+7
+QB
+Good Player
+12
+15
+62.3
+46.2
+2
+
+Taylor Heinicke
+9
+9
+QB
+Good Player
+13
+13
+62.2
+43.2
+1
+
+JK Dobbins
+8
+8
+RB
+Bad Player
+0
+5.7
+7
+44
+
+Kenyan Drake
+12
+5
+RB
+Bad Player
+1
+4.4
+17
+40
+
+Joe Mixon
+14
+14
+RB
+Bad Player
+0
+3.9
+60
+40
+
+Same Perine
+16
+2
+RB
+Bad Player
+0
+4.1
+38
+29
+
+Najee Harris
+17
+17
+RB
+Average Player
+3
+3.8
+41
+36
+
+Jaylen Warren
+16
+0
+RB 
+Bad Player
+1
+4.9
+28
+31
+
+Nick Chubb
+17
+17
+RB
+Bad Player
+1
+5
+27
+41
+
+Kareem Hunt
+17
+0
+RB
+Bad Player
+1
+3.8
+35
+24
+
+Isiah Pacheco
+17
+11
+RB
+Bad Player
+4
+4.9
+13
+31
+
+Jerick McKinnon
+17
+0
+RB
+Bad Player
+1
+4
+56
+30
+
+Austin Ekeler
+17
+17
+RB
+Good Player
+5
+4.5
+107
+72
+
+Joshua Kelley
+13
+1
+RB
+Bad Player
+0
+4.2
+14
+22
+
+Josh Jacobs
+17
+17
+RB
+Good Player
+3
+4.9
+53
+86
+
+Brandon Bolden
+16
+0
+RB
+Bad Player
+0
+3.9
+9
+12
+
+Latavius Murray
+12
+7
+RB
+Bad Player
+1
+4.4
+26
+52
+
+Melvin Gordon
+10
+6
+RB
+Average Player
+5
+3.5
+25
+17
+
+Devin Singletary
+16
+16
+RB
+Good Player
+3
+4.6
+38
+43
+
+James Cook
+16
+0
+RB
+Bad Player
+1
+5.7
+21
+33
+
+Raheem Mostert
+16
+14
+RB
+Bad Player
+1
+4.9
+31
+67
+
+Jeff Wilson
+8
+1
+RB
+Bad Player
+1
+4.7
+12
+28
+
+Rhamondre Stevenson
+17
+7
+RB
+Good Player
+4
+5
+69
+49
+
+Damien Harris
+11
+9
+RB
+Bad Player
+0
+4.4
+17
+30
+
+Michael Carter
+16
+10
+RB
+Average Player
+2
+3.5
+41
+25
+
+Breece Hall
+7
+2
+RB
+Bad Player
+1
+5.8
+19
+62
+
+Travis Etienne
+17
+12
+RB
+Good Player
+5
+5.1
+35
+62
+
+James Robinson
+7
+5
+RB
+Bad Player
+1
+4.2
+9
+50
+
+Derrick Henry
+16
+16
+RB
+Good Player
+6
+4.4
+33
+56
+
+Johnathan Taylor
+11
+11
+RB
+Good Player
+3
+4.5
+28
+66
+
+Zack Moss
+8
+3
+RB
+Bad Player
+0
+4.8
+4
+34
+
+Dameon Pierce 
+13
+13
+RB
+Good Player
+4
+4.3
+30
+75
+
+Dare Ogunbowale
+17
+4
+RB
+Bad Player
+0
+2.9
+20
+11
+
+Dalvin Cook
+17
+17
+RB
+Good Player
+4
+4.4
+39
+81
+
+Alexander Mattison
+17
+0
+RB
+Bad Player
+0
+3.8
+15
+15
+
+Kene Nwangwu
+17
+0
+RB
+Bad Player
+0
+1.6
+2
+8
+
+Jamaal Williams
+17
+9
+RB
+Bad Player
+3
+4.1
+12
+58
+
+D'Andre Swift 
+14
+8
+RB
+Bad Player
+1
+5.5
+48
+50
+
+Aaron Jones
+17
+17
+RB
+Average Player
+5
+5.3
+59
+36
+
+AJ Dillon
+17
+3
+RB
+Bad Player
+1
+4.1
+28
+27
+
+David Montgomery
+16
+16
+RB
+Average Player
+2
+4
+34
+28
+
+Leonard Fournette
+16
+9
+RB
+Bad Player
+0
+3.5
+73
+23
+
+Rachaad White
+17
+8
+RB
+Average Player
+3
+3.7
+50
+35
+
+D'Onta Foreman 
+17
+9
+RB
+Bad Player
+1
+4.5
+5
+60
+
+Chuba Hubbard
+15
+2
+RB
+Bad Player
+2
+4.9
+14
+35
+
+Alvin Kamara
+15
+13
+RB
+Average Player
+4
+4
+57
+27
+
+Taysom Hill
+16
+8
+RB
+Bad Player
+2
+6
+9
+60
+
+Tyler Allgeier
+16
+7
+RB
+Bad Player
+0
+4.9
+16
+44
+
+Cordarrelle Patterson
+13
+11
+RB
+Bad Player
+1
+4.8
+21
+40
+
+Miles Sanders
+17
+15
+RB
+Good Player
+2
+4.9
+20
+40
+
+Boston Scott
+15
+2
+RB
+Bad Player
+0
+4
+5
+21
+
+Ezekiel Elliot
+15
+14
+RB
+Bad Player
+0
+3.8
+17
+27
+
+Tony Pollard
+16
+4
+RB
+Bad Player
+0
+5.2
+39
+57
+
+Saquon Barkley
+16
+16
+RB
+Bad Player
+1
+4.4
+57
+68
+
+Matt Breida
+17
+1
+RB
+Bad Player
+0
+4.1
+20
+18
+
+Brian Robinson
+12
+9
+RB
+Bad Player
+2
+3.9
+9
+24
+
+Antonio Gibson
+15
+6
+RB
+Bad Player
+1
+3.7
+46
+20
+
+Mark Andrews
+15
+15
+Receiver
+Bad Player
+0.65
+8
+847
+11.6
+Demarcus Robinson
+17
+5
+Receiver
+Bad Player
+0.64
+3
+458
+9.5
+Ja'Marr Chase
+12
+12
+Receiver
+Bad Player
+0.65
+11
+1046
+12
+Tee Higgins
+16
+14
+Receiver
+Bad Player
+0.68
+8
+1029
+13.9
+Diontae Johnson
+17
+17
+Receiver
+Bad Player
+0.59
+7
+882
+10.3
+George Pickens
+17
+12
+Receiver
+Good Player
+0.62
+3
+801
+15.4
+Amari Cooper
+17
+17
+Receiver
+Bad Player
+0.59
+12
+1160
+14.9
+David Njoku
+14
+14
+Receiver
+Good Player
+0.73
+3
+628
+10.8
+Travis Kelce
+17
+17
+Receiver
+Bad Player
+0.72
+8
+1338
+12.2
+Juju Smith-Schuster
+16
+14
+Receiver
+Bad Player
+0.77
+6
+933
+12
+Keenan Allen
+10
+10
+Receiver
+Good Player
+0.74
+2
+752
+11.4
+Mike Williams
+13
+13
+Receiver
+Good Player
+0.68
+1
+895
+14.2
+Davante Adams
+17
+17
+Receiver
+Bad Player
+0.56
+7
+1516
+15.2
+Hunter Renfrow
+10
+1
+Receiver
+Bad Player
+0.72
+1
+330
+9.2
+Jerry Jeudy 
+15
+14
+Receiver
+Good Player
+0.67
+5
+972
+14.5
+Courtland Sutton
+15
+15
+Receiver
+Bad Player
+0.59
+9
+829
+13
+Stefon Diggs
+16
+16
+Receiver
+Bad Player
+0.7
+8
+1429
+13.2
+Gabriel Davis
+15
+15
+Receiver
+Bad Player
+0.51
+9
+836
+17.4
+Tyreek Hill
+17
+17
+Receiver
+Bad Player
+0.7
+8
+1710
+14.4
+Jaylen Waddle
+17
+17
+Receiver
+Bad Player
+0.64
+7
+1356
+18.1
+Jakobi Meyers
+14
+13
+Receiver
+Good Player
+0.7
+4
+804
+12
+Hunter Henry
+17
+14
+Receiver
+Good Player
+0.7
+3
+509
+12.4
+Garrett Wilson
+14
+12
+Receiver
+Good Player
+0.57
+5
+1103
+13.4
+Tyler Conklin
+17
+16
+Receiver
+Average Player
+0.67
+4
+552
+9.5
+Christian Kirk
+17
+17
+Receiver
+Good Player
+0.64
+5
+1108
+13.2
+Zay Jones
+16
+15
+Receiver
+Bad Player
+0.67
+13
+823
+10
+Robert Woods
+17
+15
+Receiver
+Average Player
+0.58
+4
+527
+9.9
+Austin Hooper
+17
+2
+Receiver
+Bad Player
+0.68
+1
+444
+10.8
+Michael Pittman
+16
+16
+Receiver
+Bad Player
+0.7
+6
+925
+9.3
+Parris Campbell
+17
+16
+Receiver
+Average Player
+0.7
+5
+623
+9.9
+Brandin Cooks
+13
+13
+Receiver
+Good Player
+0.65
+5
+699
+12.3
+Nico Collins
+10
+7
+Receiver
+Bad Player
+0.56
+1
+481
+13
+Justin Jefferson
+17
+17
+Receiver
+Good Player
+0.7
+5
+1809
+14.1
+Adam Thielan 
+17
+17
+Receiver
+Good Player
+0.65
+2
+716
+10.2
+Amon-Ra St. Brown
+16
+16
+Receiver
+Good Player
+0.73
+4
+1161
+11
+Kalif Raymond
+17
+7
+Receiver
+Good Player
+0.73
+0
+616
+13.1
+Allen Lazard
+15
+15
+Receiver
+Bad Player
+0.6
+6
+788
+13.1
+Robert Tonyon
+17
+3
+Receiver
+Bad Player
+0.79
+1
+470
+8.9
+Cole Kmet
+17
+17
+Receiver
+Good Player
+0.73
+2
+544
+10.9
+Darnell Mooney
+12
+12
+Receiver
+Bad Player
+0.66
+2
+493
+12.3
+Brandon Aiyuk
+17
+17
+Receiver
+Bad Player
+0.68
+7
+1015
+13
+George Kittle
+15
+15
+Receiver
+Good Player
+0.7
+4
+765
+12.8
+DK Metcalf
+17
+17
+Receiver
+Bad Player
+0.64
+7
+1048
+11.6
+Tyler Lockett
+15
+15
+Receiver
+Good Player
+0.72
+2
+1033
+12.3
+Cooper Kupp
+9
+9
+Receiver
+Good Player
+0.77
+3
+812
+10.8
+Tyler Higbee
+17
+17
+Receiver
+Bad Player
+0.67
+7
+620
+8.6
+Marquise Brown
+12
+10
+Receiver
+Good Player
+0.63
+4
+709
+10.6
+DeAndre Hopkins
+9
+9
+Receiver
+Good Player
+0.67
+5
+717
+11.2
+Chris Godwin
+15
+13
+Receiver
+Average Player
+0.73
+3
+1023
+9.8
+Mike Evans
+15
+15
+Receiver
+Good Player
+0.61
+4
+1124
+14.6
+DJ Moore
+17
+17
+Receiver
+Bad Player
+0.54
+7
+888
+14.1
+Terrace Marshall
+14
+9
+Receiver
+Bad Player
+0.59
+3
+490
+17.5
+Drake London
+17
+15
+Receiver
+Good Player
+0.67
+3
+867
+12
+Olamide Zaccheaus
+17
+13
+Receiver
+Good Player
+0.66
+0
+533
+13.3
+DeVonta Smith 
+17
+17
+Receiver
+Bad Player
+0.7
+8
+1196
+12.6
+AJ Brown
+17
+16
+Receiver
+Good Player
+0.6
+5
+1258
+14
+CeeDee Lamb
+17
+17
+Receiver
+Bad Player
+0.69
+6
+1359
+12.7
+Dalton Shultz
+15
+15
+Receiver
+Bad Player
+0.75
+6
+577
+10.1
+Richie James
+17
+4
+Receiver
+Good Player
+0.81
+3
+562
+12.1
+Darius Slayton
+16
+11
+Receiver
+Bad Player
+0.65
+7
+781
+16.2
+Terry McLaurin
+17
+17
+Receiver
+Good Player
+0.8
+0
+1250
+15.5
+Curtis Samuel
+16
+12
+Receiver
+Good Player
+0.67
+4
+735
+12.8

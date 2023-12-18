@@ -1,0 +1,639 @@
+Lamar Jackson
+12
+12
+QB
+20
+12
+62.3
+44.6
+2
+
+Tyler Huntley
+6
+4
+QB
+3
+3
+67
+42.9
+1
+
+Joe Burrow
+16
+16
+QB
+40
+18
+68.3
+50.1
+4
+
+Brandon Allen
+1
+1
+QB
+0
+0
+100
+25
+0
+
+Kenny Pickett
+13
+12
+QB
+10
+13
+63
+44
+4
+
+Mitchell Trubisky
+7
+5
+QB
+6
+5
+65
+45.5
+1
+
+Jacoby Brissett
+16
+11
+QB
+14
+12
+64
+44.5
+2
+
+Deshaun Watson
+6
+6
+QB
+8
+6
+58
+41
+0
+
+Patrick Mahomes
+17
+17
+QB
+45
+17
+67.1
+54.5
+4
+
+Chad Henne
+0
+0
+QB
+0
+1
+0
+0
+0
+
+Justin Herbert
+17
+17
+QB
+25
+18
+68.3
+46.2
+5
+
+Chase Daniel
+4
+0
+QB
+1
+0
+67.3
+46.3
+0
+
+Derek Carr
+15
+15
+QB
+24
+18
+60.8
+42.3
+3
+
+Jarrett Stidham
+5
+2
+QB
+4
+6
+63.9
+43.3
+0
+
+Russell Wilson
+15
+15
+QB
+19
+17
+60.5
+36.2
+3
+
+Brett Rypien
+4
+2
+QB
+2
+8
+60.2
+41.7
+0
+
+Josh Allen
+16
+16
+QB
+42
+27
+63.3
+52.2
+4
+
+Case Keenum
+2
+0
+QB
+0
+0
+28.6
+0
+0
+
+Tua Tagovailoa
+13
+13
+QB
+25
+14
+64.8
+49.9
+2
+
+Skylar Thompson
+7
+2
+QB
+1
+6
+57.1
+36
+0
+
+Mac Jones
+14
+14
+QB
+15
+16
+65.2
+41.1
+0
+
+Bailey Zappe
+4
+2
+QB
+5
+7
+70.7
+50.1
+0
+
+Zach Wilson
+9
+9
+QB
+7
+8
+54.5
+37.7
+2
+
+Joe Flacco
+5
+4
+QB
+5
+8
+57.6
+39.9
+1
+
+Trevor Lawrence
+17
+17
+QB
+30
+20
+66.3
+48.1
+2
+
+CJ Beathard
+4
+0
+QB
+0
+0
+63.6
+33.3
+0
+
+Ryan Tannehill
+12
+12
+QB
+15
+9
+65.2
+45.3
+0
+
+Joshua Dobbs
+2
+2
+QB
+2
+6
+58.9
+39.3
+0
+
+Matt Ryan
+12
+12
+QB
+15
+28
+67
+44.9
+4
+
+Sam Ehlinger
+4
+3
+QB
+3
+5
+63.4
+40.9
+0
+
+Davis Mills
+15
+15
+QB
+19
+23
+61
+40
+3
+
+Kyle Allen
+2
+2
+QB
+2
+8
+59
+33.7
+0
+
+Kirk Cousins
+17
+17
+QB
+31
+21
+65.9
+46.3
+8
+
+Nick Mullens
+4
+0
+QB
+1
+1
+84
+76
+0
+
+Jared Goff
+17
+17
+QB
+29
+14
+65.3
+50.1
+3
+
+Nate Sudfeld
+2
+0
+QB
+0
+0
+0
+0
+0
+
+Aaron Rodgers
+17
+17
+QB
+26
+20
+64.6
+45.1
+4
+
+Jordan Love
+4
+0
+QB
+1
+0
+67.6
+57.1
+0
+
+Justin Fields
+15
+15
+QB
+25
+27
+60.4
+36.6
+2
+
+Trevor Siemian
+2
+1
+QB
+1
+1
+57.7
+39.3
+0
+
+Jimmy Garoppolo
+11
+10
+QB
+16
+7
+67.2
+53.1
+1
+
+Brock Purdy
+9
+5
+QB
+14
+4
+67.3
+50.2
+1
+
+Geno Smith
+17
+17
+QB
+31
+19
+69.8
+48.2
+3
+
+Matt Stafford
+9
+9
+QB
+11
+13
+68
+49.5
+0
+
+Baker Mayfield
+5
+4
+QB
+5
+3
+63.3
+41.1
+1
+
+John Wolford
+3
+3
+QB
+1
+6
+61.3
+43.5
+0
+
+Kyler Murray
+11
+11
+QB
+17
+15
+66.6
+44.6
+1
+
+Colt McCoy
+4
+3
+QB
+1
+5
+68.2
+39.1
+0
+
+Tom Brady
+17
+17
+QB
+26
+14
+66.5
+45.6
+5
+
+Kyle Trask
+1
+0
+QB
+0
+0
+33.3
+22.6
+0
+
+Sam Darnold
+6
+6
+QB
+9
+9
+58.6
+44.2
+1
+
+PJ Walker
+6
+5
+QB
+3
+3
+59.4
+35.4
+0
+
+Andy Dalton
+14
+14
+QB
+18
+14
+66.7
+44.9
+1
+
+Jameis Winston
+3
+3
+QB
+4
+8
+66.7
+48.9
+1
+
+Marcus Mariota
+13
+13
+QB
+15
+17
+61.3
+45.1
+3
+
+Desmond Ridder
+4
+4
+QB
+2
+3
+63.5
+43.5
+1
+
+Jalen Hurts
+15
+15
+QB
+35
+15
+66.5
+46.4
+2
+
+Gardner Minshew
+5
+2
+QB
+4
+7
+57.9
+37.9
+0
+
+Dak Prescott
+12
+12
+QB
+24
+19
+66.5
+51.3
+2
+
+Cooper Rush
+9
+5
+QB
+5
+5
+58.3
+37.2
+2
+
+Daniel Jones
+16
+16
+QB
+22
+11
+67.2
+45.6
+5
+
+Tyrod Taylor
+3
+0
+QB
+1
+3
+75
+55.5
+0
+
+Carson Wentz
+8
+7
+QB
+12
+15
+62.3
+46.2
+2
+
+Taylor Heinicke
+9
+9
+QB
+13
+13
+62.2
+43.2
+1
